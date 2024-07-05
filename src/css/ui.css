@@ -1,0 +1,55 @@
+section.sec-form input {
+  border-radius: 6.531px;
+  border: 0.544px solid var(--Neutrals-100, #e7e7e7);
+  background: #fff;
+  padding: 9.797px 9.796px 8.858px 9.796px;
+  outline: none;
+}
+
+.container-form{
+  border-radius: 15.239px;
+border: 1.088px solid #C5ECFF;
+background: radial-gradient(161.39% 113.45% at 40.95% -10.45%, #FFF 32.81%, #F8FDFF 97.64%);
+box-shadow: 1.699px 5.097px 11.894px 0px rgba(0, 0, 0, 0.06);
+}
+
+.btn-top-linear{
+  transition: 0.5s;
+  animation: 2s vasco infinite ease-in-out;
+}
+
+@keyframes vasco {
+    0%{
+        transform: scale(1.10);
+        box-shadow: 2px 8px 11px 1px #00aaff;
+    }
+
+    50%{
+        transform: scale(1.05);
+        box-shadow: 1px 4px 5px 1px #00aaff;
+    }
+
+    100%{
+        transform: scale(1.10);
+        box-shadow: 2px 8px 11px 1px #00aaff;
+    }
+}
+
+/* APPLY */
+.box-services{
+  border: 1.088px solid #C5ECFF;
+  border-radius: 13.062px;
+  box-shadow: 1.699px 5.097px 11.894px 0px rgba(0, 0, 0, 0.06);
+}
+
+.box-heal-net{
+  border-radius: 15.239px;
+border: 1.088px solid #C5ECFF;
+background: radial-gradient(161.39% 113.45% at 40.95% -10.45%, #FFF 32.81%, #F8FDFF 97.64%);
+box-shadow: 1.699px 5.097px 11.894px 0px rgba(0, 0, 0, 0.06);
+}
+
+.masters-of-medicine{
+  background: radial-gradient(161.39% 113.45% at 40.95% -10.45%, #35BDFF 38.13%, #008CD0 100%);
+  back
+}
